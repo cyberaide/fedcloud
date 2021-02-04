@@ -1,5 +1,6 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "IEEE Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit"
+publishDir = "docs"
 
 enableRobotsTXT = true
 
@@ -53,26 +54,11 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "IEEE Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit"
+description = "IEEE Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
-[languages.no]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
-languageName ="Norsk"
-contentDir = "content/no"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-[languages.fa]
-title = "اسناد گلدی"
-description = "یک نمونه برای پوسته داکسی"
-languageName ="فارسی"
-contentDir = "content/fa"
-time_format_default = "2006.01.02"
-time_format_blog = "2006.01.02"
 
 [markup]
   [markup.goldmark]
@@ -91,8 +77,8 @@ time_format_blog = "2006.01.02"
 section = ["HTML", "print"]
 
 [params]
-copyright = "The Docsy Authors"
-privacy_policy = "https://policies.google.com/privacy"
+copyright = ""
+#privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
