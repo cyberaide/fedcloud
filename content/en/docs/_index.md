@@ -1,6 +1,6 @@
 
 ---
-title: "Proceedings"
+title: "IEEE Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit"
 linkTitle: "Proceedings"
 weight: 20
 menu:
@@ -8,19 +8,30 @@ menu:
     weight: 20
 ---
 
+**Citation:** *Workshop on Cloud Services, Federation, and the 8th
+Open Cirrus Summit, San Jose, CA, USA, 21 September 2012, ISBN#
+978-1-4503-1754-2*
+
+![](https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/ieee.jpeg)
+
+![](https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/sky.png)
+
+In conjunction with the International Conference on Autonomic Computing, San Jose, 18-20 Sep. 2012.
+
+
+
+
+https://fedcloud.cyberaide.org/
+
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
-
-
-
-<img src="https://github.com/cyberaide/fedcloud/raw/main/images/pdf.jpeg">
-
 A workshop in conjunction with ICAC 2012 that will brings together
-researchers and practitioners to discuss the newest ideas and
+researchers and practitioners to discuss ideas and
 challenges in cloud services and federated cloud computing. With your
 help, we hope to accelerate the discussion in both commercial and
 academic contexts.
+{{% /pageinfo %}}
+
+
 
 ## Focus of the Workshop
 
@@ -65,23 +76,9 @@ cloud testbeds, as well as those interested in designing new cloud
 services.
 
 
+## Proceedings
 
-
-![](https://github.com/cyberaide/fedcloud/raw/main/images/sky.jpeg)
-
-![](https://github.com/cyberaide/fedcloud/raw/main/images/ieee.jpeg)
-
-## Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit
-
-September 21, 2012, San Jose, CA (USA)
-
-Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit
-
-https://fedcloud.cyberaide.org/
-
-## Draft Proceedings
-
-[Complete Proceedings](https://github.com/cyberaide/fedcloud/raw/main/Workshop-on-Cloud-Services-Federation-and-the-8th-Open-Cirrus-Summit.pdf)
+[Proceedings](https://github.com/cyberaide/fedcloud/raw/main/Workshop-on-Cloud-Services-Federation-and-the-8th-Open-Cirrus-Summit.pdf)
 
 <!--
 [Papers](https://drive.google.com/drive/folders/0Bx_sUfI4VkKSREt5TG42cE1rdm8)
@@ -89,46 +86,87 @@ https://fedcloud.cyberaide.org/
 
 ## Draft Individual Sections and Papers
 
-* [Titlepage](https://github.com/cyberaide/fedcloud/raw/main/papers/pi-titlepage.pdf)
-<!--
-* [pii-titlepage-verso.pdf](https://github.com/cyberaide/fedcloud/raw/main/papers/pii-titlepage-verso.pdf)
--->
-* [Preface](https://github.com/cyberaide/fedcloud/raw/main/papers/piii-preface.pdf)
-* [Table of contents](https://github.com/cyberaide/fedcloud/raw/main/papers/piv-table-of-contents.pdf)
-* Optimizing VM Placement for HPC in the Cloud, Abhishek Gupta, Dejan
-  Milojicic and Laxmikant Kale [p1-Gupta.pdf](https://github.com/cyberaide/fedcloud/raw/main/papers/p1-Gupta.pdf)
-* Modern HPC cluster virtualization using KVM and Palacios, Alexander
-  Kudryavtsev, Vladimir Koshelev and Arutyun Avetisyan [p7-Kudryavtsev.pdf](https://github.com/cyberaide/fedcloud/raw/main/papers/p7-Kudryavtsev.pdf)
-* GENICloud and TransCloud: Towards a Standard Interface for Cloud
-  Federates, Andy Bavier, Yvonne Coady, Tony Mack, Chris Matthews, Joe
-  Mambretti, Rick Mcgeer, Paul Mueller, Alex Snoeren and Marco Yuen [p13-Bavier.pdf](https://github.com/cyberaide/fedcloud/raw/main/papers/p13-Bavier.pdf)
-* A Mechanism to Measure Quality-of-Service in a Federated Cloud
-  Environment, Shoumen Bardhan and Dejan Milojicic [p19-Bardhan.pdf](https://github.com/cyberaide/fedcloud/raw/main/papers/p19-Bardhan.pdf)
-* Design of a Dynamic Provisioning System for a  Federated Cloud and Bare-metal Environment, Gregor von Laszewski, Hyungro Lee, Javier Diaz, Fugang Wang, Koji Tanaka, Shubhada Karavinkoppa, Geoffrey C. Fox, Tom Furlani [p25-vonLaszewski.pdf](https://github.com/cyberaide/fedcloud/raw/main/papers/p25-vonLaszewski.pdf)
-* Infrastructure Outsourcing in Multi-Cloud Environment, Kate Keahey,
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> Titlepage](https://github.com/cyberaide/fedcloud/raw/main/papers/pi-titlepage.pdf)
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> Disclaimer](https://github.com/cyberaide/fedcloud/raw/main/papers/pii-titlepage-verso.pdf)
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> Preface](https://github.com/cyberaide/fedcloud/raw/main/papers/piii-preface.pdf)
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> Table of contents](https://github.com/cyberaide/fedcloud/raw/main/papers/piv-table-of-contents.pdf)
+
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> **Optimizing VM Placement for HPC in the Cloud**, Abhishek Gupta, Dejan
+  Milojicic and Laxmikant Kale. Page 1.](https://github.com/cyberaide/fedcloud/raw/main/papers/p1-Gupta.pdf) 
+
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> **Modern HPC cluster virtualization using KVM and Palacios**,
+  Alexander Kudryavtsev, Vladimir Koshelev and Arutyun Avetisyan. Page 7.](https://github.com/cyberaide/fedcloud/raw/main/papers/p7-Kudryavtsev.pdf)
+
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> **GENICloud and TransCloud: Towards a Standard Interface for Cloud Federates**,
+  Andy Bavier, Yvonne Coady, Tony Mack, Chris Matthews, Joe
+  Mambretti, Rick Mcgeer, Paul Mueller, Alex Snoeren and Marco Yuen. Page 13.](https://github.com/cyberaide/fedcloud/raw/main/papers/p13-Bavier.pdf)
+
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> **A Mechanism to Measure Quality-of-Service in a Federated Cloud Environment**,
+  Shoumen Bardhan and Dejan Milojicic. Page 19.](https://github.com/cyberaide/fedcloud/raw/main/papers/p19-Bardhan.pdf)
+
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> **Design of a Dynamic Provisioning System for a  Federated Cloud and Bare-metal Environment**,
+  Gregor von Laszewski, Hyungro Lee, Javier Diaz, Fugang Wang, Koji Tanaka, Shubhada Karavinkoppa, Geoffrey C. Fox, Tom Furlani.  Page 25. doi:10.1145/2378975.2378982](https://github.com/cyberaide/fedcloud/raw/main/papers/p25-vonLaszewski.pdf)
+
+  ```
+  @inproceedings{10.1145/2378975.2378982,
+    author = {von Laszewski, Gregor and Lee, Hyungro and
+              Diaz, Javier and Wang, Fugang and Tanaka, Koji and
+	      Karavinkoppa, Shubhada and Fox, Geoffrey C. and Furlani, Tom},
+    title = {Design of an Accounting and Metric-Basedcloud-Shifting and
+             Cloud-Seeding Framework for Federatedclouds and Bare-Metal Environments},
+    year = {2012},
+    isbn = {9781450317542},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/2378975.2378982},
+    doi = {10.1145/2378975.2378982},
+
+    abstract = {We present the design of a dynamic provisioning system
+                that is able to manage the resources of a federated
+                cloud environment by focusing on their
+                utilization. With our framework, it is not only
+                possible to allocate resources at a particular time to
+                a specific Infrastructure as a Service framework, but
+                also to utilize them as part of a typical HPC
+                environment controlled by batch queuing
+                systems. Through this interplay between virtualized
+                and non-virtualized resources, we provide a flexible
+                resource management framework that can be adapted
+                based on users' demands. The need for such a framework
+                is motivated by real user data gathered during our
+                operation of FutureGrid (FG). We observed that the
+                usage of the different infrastructures vary over time
+                changing from being over-utilized to underutilize and
+                vice versa. Therefore, the proposed framework will be
+                beneficial for users of environments such a FutureGrid
+                where several infrastructures are supported with
+                limited physical resources.},
+
+    booktitle = {Proceedings of the 2012 Workshop on Cloud Services, Federation,
+                 and the 8th Open Cirrus Summit},
+    pages = {25–32},
+    numpages = {8},
+    keywords = {cloud seeding, federated clouds, cloud shifting, futuregrid,
+                cloud metric, rain, dynamic provisioning},
+    location = {San Jose, California, USA},
+    series = {FederatedClouds '12}
+  }
+  ```
+
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> **Infrastructure Outsourcing in Multi-Cloud Environment**, Kate Keahey,
   Patrick Armstrong, David Labissoniere, Pierre Riteau and John
-  Bresnahan [p33-Keahey.pdf](https://github.com/cyberaide/fedcloud/raw/main/papers/p33-Keahey.pdf)
-* Network-Aware Scheduling of MapReduce Framework on Distributed
-  Clusters over High Speed Networks, Praveenkumar Kondikoppa,
-  Seung-Jong Park, Chui-Hui Chiu, Cheng Cui and Lin Xue [p38-Kondikoppa.pdf](https://github.com/cyberaide/fedcloud/raw/main/papers/p38-Kondikoppa.pdf)
-* Activities at China Mobile Research Institute (title and topic to be
-  determined), Chao Deng [p44-Deng.pdf](https://github.com/cyberaide/fedcloud/raw/main/papers/p44-Deng.pdf)
+  Bresnahan Page 33.](https://github.com/cyberaide/fedcloud/raw/main/papers/p33-Keahey.pdf)
 
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> **Network-Aware Scheduling of MapReduce Framework on Distributed
+  Clusters over High Speed Networks**, Praveenkumar Kondikoppa,
+  Seung-Jong Park, Chui-Hui Chiu, Cheng Cui and Lin Xue, Page 38.](https://github.com/cyberaide/fedcloud/raw/main/papers/p38-Kondikoppa.pdf)
 
-21 September 2012, San Jose, CA (USA)
-
-In conjunction with the
-
-International Conference on Autonomic Computing, San Jose, 18-20 Sep. 2012.
+* [<img src="https://raw.githubusercontent.com/cyberaide/fedcloud/master/images/pdf.jpeg" width="2%"> **Activities at China Mobile Research Institute**, Chao Deng,  Page 44.](https://github.com/cyberaide/fedcloud/raw/main/papers/p44-Deng.pdf) 
 
 
 ## Sponsors
 
 The Workshop is co-sponsored by the Open Cirrus Consortium and the Open Cloud Consortium, and FutureGrid.
-
-## Paper Format
-
-Full papers (a maximum of 6 pages in the two-column ACM proceedings format) are invited on a wide variety of topics relating to federated clouds and their application. Submitted papers must be original work, and may not be under consideration for another conference or journal. Complete formatting and submission instructions can be found on the workshop web site. Accepted papers will appear in proceedings distributed at the conference and available electronically.
 
 ## General Chair
 
@@ -179,58 +217,40 @@ Full papers (a maximum of 6 pages in the two-column ACM proceedings format) are 
 
 ## Program
 
-### Citation Details
+* ***Introduction***
+  * 9:00-9:20 **Introduction**, Michael Kozuch, Dejan Milojicic,
+    Gregor von Laszewski
+    
+* ***Virtual Machine Placement***
+  * 9:20-9:40 **Optimizing VM Placement for HPC in the Cloud**,
+    Abhishek Gupta, Dejan Milojicic and Laxmikant Kale.
+  * 9:40-10:00 **Modern HPC cluster virtualization using KVM and Palacios**,
+    Alexander Kudryavtsev, Vladimir Koshelev and Arutyun Avetisyan.
 
-Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit,
-San Jose, 21 September 2012, ISBN# 978-1-4503-1754-2
+* ***Core Cloud Federation Software and Testbeds***
+  * 10:30-11:00 **GENICloud and TransCloud: Towards a Standard Interface for Cloud Federates,** Andy Bavier, Yvonne Coady, Tony Mack, Chris Matthews, Joe Mambretti, Rick Mcgeer, Paul Mueller, Alex Snoeren and Marco Yuen.
+  * 11:00-11:20 **A Mechanism to Measure Quality-of-Service in a Federated Cloud Environment**, Shoumen Bardhan and Dejan Milojicic.
+  * 11:20 – 11:40 **Design of a Dynamic Provisioning System for a  Federated Cloud and Bare-metal Environment**, Gregor von Laszewski, Hyungro Lee, Javier Diaz, Fugang Wang, Koji Tanaka, Shubhada Karavinkoppa, Geoffrey C. Fox, Tom Furlani
+
+* ***Platforms in a Federated Clouds***
+  * 11:40-12:00 **Infrastructure Outsourcing in Multi-Cloud Environment**, Kate Keahey, Patrick Armstrong, David Labissoniere, Pierre Riteau and John Bresnahan.
+  * 1:30-1:50 **Network-Aware Scheduling of MapReduce Framework on Distributed Clusters over High Speed Networks**, Praveenkumar Kondikoppa, Seung-Jong Park, Chui-Hui Chiu, Cheng Cui and Lin Xue.
+
+* ***Applications in Federated Clouds***
+
+  * 1:50-2:10 **Activities at China Mobile Research Institute (title and topic to be determined)**, Chao Deng
+
+  * 1:50 – 2:30 **Presentations: Lessons learned from cloud testbeds**
+
+    * Open Cirrus           (Michael Kozuch, HP)
+    * FutureGrid             (Gregor von Laszewski, FutureGrid)
+    * Magellan                (Lavanya, LBL)
+    * GENI                      (RIck McGear, HP)
+    * IEEE standardization for Federation (David Bernstein)
+
+* 2:30 – 3:00 **Open Discussion**
 
 
-### Introduction
+* 3:30 – 4:30 **Panel: Inter-Cloud Services and Federation: Challenges and Predictions**
 
-9:00-9:20 Introduction, Michael Kozuch, Dejan Milojicic, Gregor von Laszewski
- 
-Introdcution of the participants 
-
-### Virtual Machine Placement
-
-9:20-9:40 Optimizing VM Placement for HPC in the Cloud, Abhishek Gupta, Dejan Milojicic and Laxmikant Kale.
-
-9:40-10:00 Modern HPC cluster virtualization using KVM and Palacios, Alexander Kudryavtsev, Vladimir Koshelev and Arutyun Avetisyan.
-
-10:00 – 10:30  Break
-
-### Core Cloud Federation Software and Testbeds
-
-10:30-11:00 GENICloud and TransCloud: Towards a Standard Interface for Cloud Federates, Andy Bavier, Yvonne Coady, Tony Mack, Chris Matthews, Joe Mambretti, Rick Mcgeer, Paul Mueller, Alex Snoeren and Marco Yuen.
-
-11:00-11:20 A Mechanism to Measure Quality-of-Service in a Federated Cloud Environment, Shoumen Bardhan and Dejan Milojicic.
-
-11:20 – 11:40 Design of a Dynamic Provisioning System for a  Federated Cloud and Bare-metal Environment, Gregor von Laszewski, Hyungro Lee, Javier Diaz, Fugang Wang, Koji Tanaka, Shubhada Karavinkoppa, Geoffrey C. Fox, Tom Furlani
-
-### Platforms in a Federated Clouds
-
-11:40-12:00 Infrastructure Outsourcing in Multi-Cloud Environment, Kate Keahey, Patrick Armstrong, David Labissoniere, Pierre Riteau and John Bresnahan.
-
-12:00 – 1:30 Lunch
-
-1:30-1:50 Network-Aware Scheduling of MapReduce Framework on Distributed Clusters over High Speed Networks, Praveenkumar Kondikoppa, Seung-Jong Park, Chui-Hui Chiu, Cheng Cui and Lin Xue.
-
-### Applications in Federated Clouds
-
-1:50-2:10 Activities at China Mobile Research Institute (title and topic to be determined), Chao Deng
-
-1:50 – 2:30 Presentations: Lessons learned from cloud testbeds
-
-* Open Cirrus           (Michael Kozuch, HP)
-* FutureGrid             (Gregor von Laszewski, FutureGrid)
-* Magellan                (Lavanya, LBL)
-* GENI                      (RIck McGear, HP)
-* IEEE standardization for Federation (David Bernstein)
-
-2:30 – 3:00 Open Discussion
-
-3:00 – 3:30 Break
-
-3:30 – 4:30 Panel: Inter-Cloud Services and Federation: Challenges and Predictions
-
-5:00 –         Informal meeting with your colleagues to discuss activities and your work
+* 5:00 –  **Informal meeting with your colleagues to discuss activities and your work**
