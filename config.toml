@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://cyberaide.github.io/fedcloud/"
 title = "IEEE Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit"
 publishDir = "docs"
 
